@@ -3,15 +3,22 @@ title: "Crowd3D: Towards Hundreds of People Reconstruction from a Single Image"
 collection: publications
 category: conferences
 permalink: /publication/crowd3d
-excerpt: "CVPR 2023"
+# excerpt: "CVPR 2023"
 date: 2023-06-01
-venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)"
-paperurl: "asserts/main_paper.pdf"
+venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023"
+#paperurl: #"/assets/docs/crowd3d/main_paper.pdf"
 codeurl: "https://github.com/1020244018/Crowd3D"
 ---
 
-**Hao Wen**<sup>†</sup>, **Jing Huang**<sup>†</sup>, Huili Cui, Haozhe Lin, Yu-Kun Lai, Lu Fang, Kun Li<sup>*</sup>  
-<sup>†</sup> Equal contribution. <sup>*</sup> Corresponding author.
+Hao Wen<sup>&dagger;</sup>, **Jing Huang**<sup>&dagger;</sup>, Huili Cui, Haozhe Lin, Yu-Kun Lai, Lu Fang, Kun Li<sup>*</sup>  
+<sup>&dagger;</sup> Equal contribution.
+
+## Links
+
+- [More Video Visualization](https://cic.tju.edu.cn/faculty/likun/projects/Crowd3D/index.html)
+- [Paper](/assets/docs/crowd3d/main_paper.pdf)
+- [Supplemental](/assets/docs/crowd3d/supp.pdf)
+- [Code](https://github.com/1020244018/Crowd3D)
 
 ---
 
@@ -30,19 +37,10 @@ human-centric cropping scheme. Besides, we contribute a benchmark dataset, **Lar
 
 ---
 
-## Links
-
-- [Paper](/assets/docs/crowd3d/main_paper.pdf)
-- [Supplemental](/assets/docs/crowd3d/supp.pdf)
-- [Code](https://github.com/1020244018/Crowd3D)
-
----
-
 ## Figures
 
 <img src="/images/crowd3d/figure2_v60.png" width="900" alt="Overview of Crowd3D framework."/>
 <p><em>Overview of Crowd3D framework.</em></p>
-
 
 
 ---
