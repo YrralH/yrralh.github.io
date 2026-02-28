@@ -17,7 +17,7 @@ Hao Wen<sup>&dagger;</sup>, **Jing Huang**<sup>&dagger;</sup>, Huili Cui, Haozhe
 
 - [More Video Visualization](https://cic.tju.edu.cn/faculty/likun/projects/Crowd3D/index.html)
 - [Paper](/assets/docs/crowd3d/main_paper.pdf)
-- [Supplemental](/assets/docs/crowd3d/supp.pdf)
+- [Supplemental Document](/assets/docs/crowd3d/supp.pdf)
 - [Code](https://github.com/1020244018/Crowd3D)
 
 ---
