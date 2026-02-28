@@ -5,7 +5,6 @@ category: conferences
 permalink: /publication/rescue
 date: 2025-01-01
 venue: "International Conference on Computer Vision (ICCV) 2025 Highlight"
-paperurl: "https://cic.tju.edu.cn/faculty/likun/projects/RESCUE/imgs/LXL_RESCUE.pdf"
 codeurl: "https://github.com/xiaolin0314/RESCUE"
 projecturl: "https://cic.tju.edu.cn/faculty/likun/projects/RESCUE/index.html"
 redirect_to: "https://cic.tju.edu.cn/faculty/likun/projects/RESCUE/index.html"
